@@ -9,12 +9,13 @@ Brief description or tagline.
 1. [Description](#description)
 2. [Reference](#Reference)
 3. [Authors and Acknowledgments](#authors-and-acknowledgments)
-8. [Contact](#contact)
-9. [FAQ](#faq)
+
 
 ## Description
 
-Studying the Topological Properties of 1d models such as SSH and Rice Mele Model, and computing topological invariants such as winding number and Polarization of Energy bands
+1) Studying the Topological Properties of 1d models such as SSH and Rice Mele Model 
+2) Computing topological invariants such as winding number.
+3) Computing POlarization of the Energy bands.
 
 
 ## Reference
@@ -25,6 +26,6 @@ Studying the Topological Properties of 1d models such as SSH and Rice Mele Model
 
 ## Authors:
 1) Aaditya
-2) Rajyavardhan Ray
+2) RR
 
 
