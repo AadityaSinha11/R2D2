@@ -23,5 +23,8 @@ Studying the Topological Properties of 1d models such as SSH and Rice Mele Model
 3) [A Short Course on Topological Insulators: Band-structure topology and edge states in one and two dimensions János K. Asbóth, László Oroszlány, András Pályi](https://arxiv.org/abs/1509.02295v1)
 4) [A topological analysis of the Su-Schrieffer-Heeger model :A detailed analysis of the bulk topology in this well-studied model. Justin H Wilson](https://jhwilson.com/blog/2022/SSH-model/)
 
+## Authors:
+1) Aaditya
+2) Rajyavardhan Ray
 
 
