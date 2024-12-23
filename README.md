@@ -2,8 +2,7 @@
 SSH, Polarization and Beyond
 
 # Project Title
-
-Brief description or tagline.
+SSH, Polarization and Beyond
 
 ## Table of Contents
 1. [Description](#description)
